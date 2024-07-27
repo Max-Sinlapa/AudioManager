@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b254c6cbb77f32f4f972f41fda2564c0, type: 3}
+  m_Name: m_SoundLisData-1111
+  m_EditorClassIdentifier: 
+  SoundList:
+  - Name: soundTrackM
+    Type: 1
+    SoundClip: {fileID: 8300000, guid: cbd5ee476a488444aaeb06b7e1fb04e0, type: 3}
+    Volume: 0.2
+    Loop: 1
+  - Name: Swipe
+    Type: 0
+    SoundClip: {fileID: 8300000, guid: 9bb8c68dc449980458a065b6693a2976, type: 3}
+    Volume: 0.8
+    Loop: 0
+  - Name: Connect
+    Type: 0
+    SoundClip: {fileID: 8300000, guid: 808b1c1bb474b2e4e81f482b61c5af1f, type: 3}
+    Volume: 0.8
+    Loop: 0
+  - Name: DICE
+    Type: 0
+    SoundClip: {fileID: 8300000, guid: 2efd8b15056482942a2a2f445cf4f8c7, type: 3}
+    Volume: 0.8
+    Loop: 0
+  - Name: CoinSFX
+    Type: 0
+    SoundClip: {fileID: 8300000, guid: 808b1c1bb474b2e4e81f482b61c5af1f, type: 3}
+    Volume: 0.8
+    Loop: 0
